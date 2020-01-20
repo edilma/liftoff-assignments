@@ -38,4 +38,4 @@ https://trello.com/c/zP1YSE7B
 
 ### Project Repo Link
 
-[AutoTracker]  (https://github.com/Alexcuellar18/AutoTracker)
+[AutoTracker](https://github.com/Alexcuellar18/AutoTracker)
