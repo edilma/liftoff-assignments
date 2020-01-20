@@ -9,11 +9,11 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 The images for the wireframes are attached in this assigment. 
-* [Main Page For Signned Users] (https://github.com/edilma/liftoff-assignments/blob/master/P3-Project_Planning/General%20Page.jpg)
-* [Main Page - Front Page] (https://github.com/edilma/liftoff-assignments/blob/master/P3-Project_Planning/Main%20-Login%20Page.jpg)
-* [Maintenance Item Page] (https://github.com/edilma/liftoff-assignments/blob/master/P3-Project_Planning/Maintenance%20Item%20Page.jpg)
-* [Maintenance Page] (https://github.com/edilma/liftoff-assignments/blob/master/P3-Project_Planning/Maintenance%20Page.jpg)
-* [Modification Page](https://github.com/edilma/liftoff-assignments/blob/master/P3-Project_Planning/Modification%20Page.jpg)
+* ![Main Page For Signned Users](https://github.com/edilma/liftoff-assignments/blob/master/P3-Project_Planning/General%20Page.jpg)
+* ![Main Page - Front Page](https://github.com/edilma/liftoff-assignments/blob/master/P3-Project_Planning/Main%20-Login%20Page.jpg)
+* ![Maintenance Item Page](https://github.com/edilma/liftoff-assignments/blob/master/P3-Project_Planning/Maintenance%20Item%20Page.jpg)
+* ![Maintenance Page](https://github.com/edilma/liftoff-assignments/blob/master/P3-Project_Planning/Maintenance%20Page.jpg)
+* ![Modification Page](https://github.com/edilma/liftoff-assignments/blob/master/P3-Project_Planning/Modification%20Page.jpg)
 
 
 
