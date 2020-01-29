@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume and provide links to you
 [GitHub/Edilma](https://github.com/edilma)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkedIn/in/Edilma](https://www.linkedin.com/in/edilma/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
