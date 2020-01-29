@@ -1,5 +1,6 @@
 # Project Setup
-This assignment will get you set up and rolling with a basic project. By the end, you will have a GitHub repo that contains a working application.
+The AutoTracker application will allow the user to manage the maintenance of their car(s).  They can track the servicing, dates and costs and also the changes or modification done to the car.
+
 
 ## Assignment Description
 [Project Setup Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-setup)
