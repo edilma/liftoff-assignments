@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-[GitHub/Edilma] (https://github.com/edilma)
+[GitHub/Edilma](https://github.com/edilma)
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
