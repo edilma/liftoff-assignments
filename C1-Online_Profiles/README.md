@@ -13,6 +13,6 @@ For this assignment you will need to upload your resume and provide links to you
 [LinkedIn/in/Edilma](https://www.linkedin.com/in/edilma/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[My Resume January 2020](C1-Online_Profiles/Edilma Riano LaunchCode 2020.pdf)
 
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+
