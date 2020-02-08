@@ -13,6 +13,7 @@ For this assignment you will need to upload your resume and provide links to you
 [LinkedIn/in/Edilma](https://www.linkedin.com/in/edilma/)
 
 ### Resume
-[My Resume January 2020](C1-Online_Profiles/Edilma Riano LaunchCode 2020.pdf)
+[My Resume January 2020](
+https://github.com/edilma/liftoff-assignments/blob/master/C1-Online_Profiles/Edilma%20Riano%20LaunchCode%202020.pdf)
 
 
